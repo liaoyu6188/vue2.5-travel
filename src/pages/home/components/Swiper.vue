@@ -36,9 +36,9 @@ export default {
   background: #fff
 .wrapper
   overflow: hidden
-  width: 100
+  width: 100%
   height: 0
-  padding-bottom: 31.25%
+  padding-bottom: 26%
   .swiper-img
     width: 100%
 </style>
